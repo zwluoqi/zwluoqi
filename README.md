@@ -10,7 +10,7 @@
 -  搬砖间隙、也不会写东西
 -  想知道爬坑经验，请邮件或者扫码
 
-| 游戏 | 截图 | 截图 | 截图 | 截图 |截图 |
+| 分类 | 项目 | 截图 | 截图 | 截图 |截图 |
 | - | - | --- | --- | - |- |
 | **商业游戏** |  
 ||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Business_Game_Collection/苍蓝誓约">苍蓝誓约</a> | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/CLSY_iPhone0.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/CLSY_iPhone1.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/CLSY_iPhone2.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/CLSY_iPhone3.jpg) |
