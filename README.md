@@ -8,7 +8,7 @@
 -  商业游戏、独立游戏、技术项目从未参与
 -  13年入坑，一直在游戏圈搬砖恰饭找福报
 -  当前主要研究PCG和角色渲染
--  想知道爬坑经验，请<a href="qingzhu.us@gmail.com"> 邮件 </a>或者<a href="https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/qrcode_for_gh_b09ab1638ef7_430.jpg?x-oss-process=image/resize,w_300/"> 扫码 </a>
+-  想知道爬坑经验，请 邮件 或者<a href="https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/qrcode_for_gh_b09ab1638ef7_430.jpg?x-oss-process=image/resize,w_300/"> 扫码 </a>
 
 | 分类 | 项目 | 截图 | 截图 | 截图 |截图 |
 | - | - | --- | --- | - |- |
