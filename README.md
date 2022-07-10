@@ -3,12 +3,12 @@
 ![zwluoqi github stats](https://github-readme-stats.vercel.app/api?username=zwluoqi&show_icons=true&bg_color=30,48C9B0,904e95&title_color=fff&text_color=fff)
 
 -  非全栈开发  
--  C#、Python、Java、Unity、BGFX、Blender、SP从没用过  
+-  C#、Python、Java、Unity、BGFX、Blender、Substance从没用过  
 -  游戏、引擎、渲染、金融、历史、修仙全都不会  
 -  商业游戏、独立游戏、技术项目从未参与
--  13年入坑
--  搬砖间隙、也不会写东西
--  想知道爬坑经验，请邮件或者扫码
+-  13年入坑，一直在游戏圈搬砖恰饭找福报
+-  当前主要研究PCG和角色渲染
+-  想知道爬坑经验，请<a href="qingzhu.us@gmail.com"> 邮件 </a>或者<a href="https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/qrcode_for_gh_b09ab1638ef7_430.jpg?x-oss-process=image/resize,w_300/"> 扫码 </a>
 
 | 分类 | 项目 | 截图 | 截图 | 截图 |截图 |
 | - | - | --- | --- | - |- |
