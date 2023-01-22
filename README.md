@@ -2,13 +2,10 @@
 
 ![zwluoqi github stats](https://github-readme-stats.vercel.app/api?username=zwluoqi&show_icons=true&bg_color=30,48C9B0,904e95&title_color=fff&text_color=fff)
 
--  非全栈开发  
--  C#、Python、Java、Unity、BGFX、Blender、Substance从没用过  
--  游戏、引擎、渲染、金融、历史、修仙全都不会  
--  商业游戏、独立游戏、技术项目从未参与
--  13年入坑，一直在游戏圈搬砖恰饭找福报
--  当前主要研究PCG和角色渲染
--  想知道爬坑经验，请 邮件 或者<a href="https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/qrcode_for_gh_b09ab1638ef7_430.jpg?x-oss-process=image/resize,w_300/"> 扫码 </a>
+-  非全栈开发，游戏、引擎、AI、动画  
+-  C#、Python、Java、Unity、BGFX、Blender、OpenAI、Animation
+-  邮件 或者<a href="https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/qrcode_for_gh_b09ab1638ef7_430.jpg?x-oss-process=image/resize,w_300/"> 扫码 </a>
+-  <a href="https://b23.tv/lX1gL3T">哔哩哔哩</a>主页
 
 | 分类 | 项目 | 截图 | 截图 | 截图 |截图 |
 | - | - | --- | --- | - |- |
@@ -22,6 +19,7 @@
 ||<a href="https://github.com/zwluoqi/RoundRpg">宠物小精灵</a>| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/nor.png) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/enc.png) |||
 ||<a href="https://github.com/zwluoqi/sanxiao">呆萌消消看</a>| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/sanxiao1.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/sanxiao2.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/sanxiao3.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/sanxiao4.jpg)| 
 | **技术项目**|
+||<a href="https://hub.vroid.com/apps/pKB0P7vPWWwubraI_ej0JjjKaBWcrqAlUHQDCcvFpjo">VR Dancer</a>|一款3D视频制作及动作捕捉软件|
 ||<a href="https://github.com/zwluoqi/mobile-visual-shader-editor">VisualShaderGraph</a>|一款跨平台着色器编辑工具|
 ||<a href="https://github.com/zwluoqi/graphic_books">graphic_books</a>|计算机图形学书籍总览|
 ||<a href="https://github.com/zwluoqi/PMDMaterial-URP">PMDMaterial-URP</a>|MMD Shader For Unity Support URP|
