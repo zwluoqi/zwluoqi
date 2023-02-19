@@ -10,19 +10,20 @@
 | 分类 | 项目 | 截图 | 截图 | 截图 |截图 |
 | - | - | --- | --- | - |- |
 | **商业游戏** |  
-||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Business_Game_Collection/苍蓝誓约">苍蓝誓约</a> | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/CLSY_iPhone0.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/CLSY_iPhone1.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/CLSY_iPhone2.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/CLSY_iPhone3.jpg) |
-||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Business_Game_Collection/不良人2">不良人2</a>|![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/BLR_iPhone0.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/BLR_iPhone1.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/BLR_iPhone2.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/BLR_iPhone3.jpg) |
-||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Business_Game_Collection/刀剑神域">刀剑神域</a>| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/DJSY_iPhone0.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/DJSY_iPhone1.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/DJSY_iPhone2.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/DJSY_iPhone3.jpg) |
+||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Business_Game_Collection/苍蓝誓约">苍蓝誓约</a> || ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/CLSY_iPhone0.jpg) |
+||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Business_Game_Collection/不良人2">不良人2</a>||![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/BLR_iPhone0.jpg) |
+||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Business_Game_Collection/刀剑神域">刀剑神域</a>|| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/DJSY_iPhone0.jpg) | 
 | **独立游戏** |  
-||<a href="https://github.com/zwluoqi/TextEquip">装备合成器</a>| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/equip0.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/equip1.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/equip2.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/equip3.jpg) | 
-||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Independent_Game_Collection/剑破仙界">剑破仙界</a>| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/IMG_5356.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/IMG_5357.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/IMG_5358.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/IMG_5359.jpg) | 
-||<a href="https://github.com/zwluoqi/RoundRpg">宠物小精灵</a>| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/nor.png) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/enc.png) |||
-||<a href="https://github.com/zwluoqi/sanxiao">呆萌消消看</a>| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/sanxiao1.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/sanxiao2.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/sanxiao3.jpg) | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/sanxiao4.jpg)| 
+||<a href="https://github.com/zwluoqi/TextEquip">装备合成器</a> || ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/equip0.jpg) 
+||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Independent_Game_Collection/剑破仙界">剑破仙界</a> || ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/IMG_5356.jpg) | 
+||<a href="https://github.com/zwluoqi/RoundRpg">宠物小精灵</a> || ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/nor.png) |
+||<a href="https://github.com/zwluoqi/sanxiao">呆萌消消看</a> || ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/sanxiao1.jpg) |
 | **技术项目**|
 ||<a href="https://hub.vroid.com/apps/pKB0P7vPWWwubraI_ej0JjjKaBWcrqAlUHQDCcvFpjo">VR Dancer</a>|一款3D视频制作及动作捕捉软件|
 ||<a href="https://github.com/zwluoqi/mobile-visual-shader-editor">VisualShaderGraph</a>|一款跨平台着色器编辑工具|
 ||<a href="https://github.com/zwluoqi/graphic_books">graphic_books</a>|计算机图形学书籍总览|
-||<a href="https://github.com/zwluoqi/PMDMaterial-URP">PMDMaterial-URP</a>|MMD Shader For Unity Support URP|
+||<a href="https://github.com/zwluoqi/PMDMaterial-URP">PMDMaterial-URP</a>|MMD Shader For Unity Support URP|![](https://github.com/zwluoqi/PMDMaterial-URP/blob/main/test.png)|
+||<a href="https://github.com/zwluoqi/AutoMeshSkinning">AutoMeshSkinning</a>|Auto Skinning One Avatar‘s Mesh To Other Avatar's|![](https://github.com/zwluoqi/AutoMeshSkinning/blob/main/test.png)|
 ||<a href="https://github.com/zwluoqi/UnityWebServer">UnityWebServer</a>|Start WebServer In Unity|
 | **计算机几何** | 
 ||<a href="https://github.com/zwluoqi/Galaxy_PCG">Galaxy PCG</a>|PCG技术栈| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/011SimpleOceanWater.png) |
