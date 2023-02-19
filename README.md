@@ -22,14 +22,14 @@
 ||<a href="https://hub.vroid.com/apps/pKB0P7vPWWwubraI_ej0JjjKaBWcrqAlUHQDCcvFpjo">VR Dancer</a>|一款3D视频制作及动作捕捉软件|
 ||<a href="https://github.com/zwluoqi/mobile-visual-shader-editor">VisualShaderGraph</a>|一款跨平台着色器编辑工具|
 ||<a href="https://github.com/zwluoqi/graphic_books">graphic_books</a>|计算机图形学书籍总览|
-||<a href="https://github.com/zwluoqi/PMDMaterial-URP">PMDMaterial-URP</a>|MMD Shader For Unity Support URP|![](https://github.com/zwluoqi/PMDMaterial-URP/blob/main/test.png)|
-||<a href="https://github.com/zwluoqi/AutoMeshSkinning">AutoMeshSkinning</a>|Auto Skinning One Avatar‘s Mesh To Other Avatar's|![](https://github.com/zwluoqi/AutoMeshSkinning/blob/main/test.png)|
 ||<a href="https://github.com/zwluoqi/UnityWebServer">UnityWebServer</a>|Start WebServer In Unity|
 | **计算机几何** | 
+||<a href="https://github.com/zwluoqi/AutoMeshSkinning">AutoMeshSkinning</a>|Auto Skinning One Avatar‘s Mesh To Other Avatar's|![](https://github.com/zwluoqi/AutoMeshSkinning/blob/main/test.png)|
 ||<a href="https://github.com/zwluoqi/Galaxy_PCG">Galaxy PCG</a>|PCG技术栈| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/011SimpleOceanWater.png) |
 ||<a href="https://github.com/zwluoqi/LSystems">L-System</a>| <a href="https://www.bilibili.com/video/BV1P54y1Z7bE">Unity版本L-Systems完整实现,PCG植被解决方案</a> | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/s07.png) | 
 ||<a href="https://github.com/zwluoqi/MarchingCube">MarchingCube PCG</a>| <a href="https://www.bilibili.com/video/bv1ou411z72k">MarchingCube无限地形解决方案</a>  | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/seaworld.png) |
 | **计算机渲染** | 
+||<a href="https://github.com/zwluoqi/PMDMaterial-URP">PMDMaterial-URP</a>|MMD Shader For Unity Support URP|![](https://github.com/zwluoqi/PMDMaterial-URP/blob/main/test.png)|
 ||<a href="https://github.com/zwluoqi/URP_Collection_Tech">URP_Collection_Tech</a>|一些URP实践用例|
 ||<a href="https://github.com/zwluoqi/Shader_For_Beginer">Shader_For_Beginer</a>|后处理Shader技术栈|
 ||<a href="https://github.com/zwluoqi/Clouds">Sky Atomspheric And Cloud</a>| <a href="https://www.bilibili.com/video/BV1UY411M7DR/">RayMarchd大气天空和云解决方案</a>  | ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/S013-SkyAtomsphericAndCloud.png) |
