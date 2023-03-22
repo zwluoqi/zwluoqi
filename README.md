@@ -13,11 +13,6 @@
 ||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Business_Game_Collection/苍蓝誓约">苍蓝誓约</a> |一款基于<a href="https://zh.moegirl.org.cn/舰队Collection">舰队Collection</a>复刻的二次元手游，<a href="https://apps.apple.com/jp/app/id1484471032">日服地址</a>| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/CLSY_iPhone0.jpg) |
 ||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Business_Game_Collection/不良人2">不良人2</a>|国漫不良人的一款MMO游戏，<a href="https://apps.apple.com/cn/app/id1147115385">国服地址</a>|![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/BLR_iPhone0.jpg) |
 ||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Business_Game_Collection/刀剑神域">刀剑神域</a> |日漫刀剑神域的一款二次元回合制游戏，本人参与前期研发。<a href="https://apps.apple.com/cn/app/id1518791926">国服地址</a>| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/DJSY_iPhone0.jpg) | 
-| **独立游戏** |  
-||<a href="https://github.com/zwluoqi/TextEquip">装备合成器</a> |基于web版本移植到Unity| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/equip0.jpg) 
-||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Independent_Game_Collection/剑破仙界">剑破仙界</a> |一款2D文字放置类游戏，参考过多款不同类型的放置类、rougolike类游戏| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/IMG_5356.jpg) | 
-||<a href="https://github.com/zwluoqi/RoundRpg">宠物小精灵</a> |一款基于Unity3d，使用Tolua的回合制完整RPG Demo| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/nor.png) |
-||<a href="https://github.com/zwluoqi/sanxiao">呆萌消消看</a> |一款高质量的三消游戏| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/sanxiao1.jpg) |
 | **技术项目**|
 ||<a href="https://hub.vroid.com/apps/pKB0P7vPWWwubraI_ej0JjjKaBWcrqAlUHQDCcvFpjo">VR Dancer</a>|一款3D视频制作及动作捕捉软件|
 ||<a href="https://github.com/zwluoqi/mobile-visual-shader-editor">VisualShaderGraph</a>|一款跨平台着色器编辑工具|
