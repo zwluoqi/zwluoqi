@@ -14,7 +14,6 @@
 ||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Business_Game_Collection/不良人2">不良人2</a>|国漫不良人的一款MMO游戏，<a href="https://apps.apple.com/cn/app/id1147115385">国服地址</a>|![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/BLR_iPhone0.jpg) |
 ||<a href="https://github.com/zwluoqi/Qingzhu_Game_Collection/tree/main/Business_Game_Collection/刀剑神域">刀剑神域</a> |日漫刀剑神域的一款二次元回合制游戏，本人参与前期研发。<a href="https://apps.apple.com/cn/app/id1518791926">国服地址</a>| ![](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/DJSY_iPhone0.jpg) | 
 | **技术项目**|
-||<a href="https://hub.vroid.com/apps/pKB0P7vPWWwubraI_ej0JjjKaBWcrqAlUHQDCcvFpjo">VR Dancer</a>|一款3D视频制作及动作捕捉软件|
 ||<a href="https://github.com/zwluoqi/mobile-visual-shader-editor">VisualShaderGraph</a>|一款跨平台着色器编辑工具|
 ||<a href="https://github.com/zwluoqi/graphic_books">graphic_books</a>|计算机图形学书籍总览|
 ||<a href="https://github.com/zwluoqi/UnityWebServer">UnityWebServer</a>|Start WebServer In Unity|
