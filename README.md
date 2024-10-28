@@ -4,7 +4,7 @@
 
 -  非全栈开发，游戏、引擎、AI、动画  
 -  C#、Python、Java、Unity、BGFX、Blender、OpenAI、Animation
--  邮件 或者<a href="https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/qrcode_for_gh_b09ab1638ef7_430.jpg?x-oss-process=image/resize,w_300/"> 扫码 </a>
+-  邮件
 
 
 | 分类 | 项目 | 截图 | 截图 | 截图 |截图 |
